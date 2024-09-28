@@ -1,1 +1,143 @@
+{
+    "vehicles": [
+        {
+            "brand": "Hyundai",
+            "model": {
+                "Bayon": {
+                    "imageUrl": "https://i.imgur.com/CyhmsAp.png",
+                    "power": "100 HP",
+                    "engineSize": "1398 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "SUV",
+                    "fuelType": "Gas"
+                },
+                "i20": {
+                    "imageUrl": "https://i.imgur.com/Fe5dNpe.png",
+                    "power": "100 HP",
+                    "engineSize": "1368 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "Hatchback",
+                    "fuelType": "Gas"
+                }
+            }
+        },
+        {
+            "brand": "BMW",
+            "model": {
+                "320d": {
+                    "imageUrl": "https://i.imgur.com/3AAU3x2.png",
+                    "power": "187 HP",
+                    "engineSize": "1995 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "Sedan",
+                    "fuelType": "Diesel"
+                },
+                "520i": {
+                    "imageUrl": "https://i.imgur.com/ekn2LT9.png",
+                    "power": "170 HP",
+                    "engineSize": "1597 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "Sedan",
+                    "fuelType": "Gas"
+                }
+            }
+        },
+        {
+            "brand": "Opel",
+            "model": {
+                "Astra": {
+                    "imageUrl": "https://i.imgur.com/9IQSfCE.png",
+                    "power": "130 HP",
+                    "engineSize": "1199 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "Hatchback",
+                    "fuelType": "Gas"
+                }
+            }
+        },
+        {
+            "brand": "Toyota",
+            "model": {
+                "Corolla": {
+                    "imageUrl": "https://i.imgur.com/QZCdQ0j.png",
+                    "power": "123 HP",
+                    "engineSize": "1490 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "Sedan",
+                    "fuelType": "Gas"
+                }
+            }
+        },
+        {
+            "brand": "Nissan",
+            "model": {
+                "Qashqai": {
+                    "imageUrl": "https://i.imgur.com/WD0Q2b5.png",
+                    "power": "190 HP",
+                    "engineSize": "1497 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "SUV",
+                    "fuelType": "Hybrid"
+                }
+            }
+        }
+    ],
+    "locations": [
+        "Cairo, Egypt",
+        "Luxor, Egypt",
+        "Alexandria, Egypt",
+        "Aswan, Egypt",
+        "Sharm El Sheikh, Egypt"
+    ],
+    "customer-reviews": [
+        {
+            "customerImageUrl": "https://i.imgur.com/k9Soj6E.jpeg",
+            "customerName": "Daniel",
+            "customerReview": "The process was smooth and straightforward!",
+            "customerStar": 5
+        },
+        {
+            "customerImageUrl": "https://i.imgur.com/QlqWIWU.jpeg",
+            "customerName": "Sarah",
+            "customerReview": "I enjoyed the quick service and friendly staff.",
+            "customerStar": 4
+        },
+        {
+            "customerImageUrl": "https://i.imgur.com/yrvZS3z.jpeg",
+            "customerName": "Jessica",
+            "customerReview": "The experience was fantastic! I'll definitely rent again.",
+            "customerStar": 5
+        },
+        {
+            "customerImageUrl": "https://i.imgur.com/sabTRnm.jpeg",
+            "customerName": "David",
+            "customerReview": "Exceeded my expectations, very professional.",
+            "customerStar": 4
+        },
+        {
+            "customerImageUrl": "https://i.imgur.com/y5r2agv.jpeg",
+            "customerName": "Emily",
+            "customerReview": "Had a great trip, the car was in excellent condition!",
+            "customerStar": 5
+        },
+        {
+            "customerImageUrl": "https://i.imgur.com/RZ95SxD.jpeg",
+            "customerName": "Michael",
+            "customerReview": "Efficient service, but there’s room for improvement.",
+            "customerStar": 3
+        },
+        {
+            "customerImageUrl": "https://i.imgur.com/Cg5aDlj.jpeg",
+            "customerName": "Thomas",
+            "customerReview": "Great service overall, made my rental experience easy.",
+            "customerStar": 5
+        },
+        {
+            "customerImageUrl": "https://i.imgur.com/AAg7h6t.jpeg",
+            "customerName": "Laura",
+            "customerReview": "Good service, but communication could be better.",
+            "customerStar": 4
+        }
+    ]
 
+}
